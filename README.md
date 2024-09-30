@@ -1,5 +1,7 @@
 # Main steps as follows:
 
+You need to install [LineageOS](https://lineageos.org/)
+
 ```
 # Step 1: Create the file:
 vim /system/etc/init/myboot.rc
